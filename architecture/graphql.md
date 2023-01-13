@@ -6,10 +6,10 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- la différence entre REST et GraphQL ❌ / ✔️
-- les besoins auxquels répond GraphQL ❌ / ✔️
-- la définition d'un schéma
-- Query ❌ / ✔️
+- la différence entre REST et GraphQL ✔️
+- les besoins auxquels répond GraphQL ✔️
+- la définition d'un schéma ✔️
+- Query ✔️
 - Mutation ❌ / ✔️
 - Subscription ❌ / ✔️
 
@@ -29,9 +29,9 @@ Description :
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ❌
 
-Description :
+Description : GraphQl ne fait pas parti des techno de mon entreprise pour l'instant.
 
 ## 🌐 J'utilise des ressources
 

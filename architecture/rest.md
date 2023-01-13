@@ -6,11 +6,11 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les verbes HTTP ❌ / ✔️
-- les statuts HTTP ❌ / ✔️
-- les endpoints ❌ / ✔️
-- CORS ❌ / ✔️
-- la nomenclature recommandée pour les routes ❌ / ✔️
+- les verbes HTTP ✔️
+- les statuts HTTP ✔️
+- les endpoints ✔️
+- CORS ✔️
+- la nomenclature recommandée pour les routes ✔️
 
 ## 💻 J'utilise
 
@@ -28,9 +28,9 @@ Description :
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ✔️
 
-Description :
+Description : Utilisation d'une api REST pour récupéré et modifier des informations en base de données.
 
 ## 🌐 J'utilise des ressources
 
