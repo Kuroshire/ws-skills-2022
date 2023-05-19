@@ -8,7 +8,7 @@
 
 - l'initialisation d'un projet ✔️
 - travailler avec des branches ✔️
-- faire une PR ❌ / ✔️
+- faire une PR ✔️
 - utiliser git rebase pour faire des commits propres ✔️
 - utiliser les gitHub actions ❌ / ✔️
 
