@@ -10,7 +10,7 @@
 - les besoins auxquels répond GraphQL ✔️
 - la définition d'un schéma ✔️
 - Query ✔️
-- Mutation ❌ / ✔️
+- Mutation ✔️
 - Subscription ❌ / ✔️
 
 ## 💻 J'utilise
@@ -31,7 +31,7 @@ Description :
 
 ### Utilisation en environement professionnel ❌
 
-Description : GraphQl ne fait pas parti des techno de mon entreprise pour l'instant.
+Description : GraphQl ne fait pas parti des technos de mon entreprise pour l'instant.
 
 ## 🌐 J'utilise des ressources
 
